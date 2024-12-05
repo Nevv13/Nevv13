@@ -1,7 +1,7 @@
 # Halo! 👋
 Saya [Nevv13], seorang [Pelajar] yang suka [Game].
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?Nevv13=Nevv13&show_icons=true&theme=radical)
-![Banne](https://IMG_20241129_181028_821com/banner.png)
+![Banner](https://IMG_20241129_181028_821com/foto.png)
 ### 🌐 Temukan Saya di:
 - [Youtube](https://youtube.com/in/@Nevv13)
 - [Instagram](https://instagram.com/@zhax_13)
