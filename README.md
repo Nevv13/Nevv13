@@ -15,7 +15,7 @@
 <div align="center" style="background-color: #222222; color: white; padding: 20px; border-radius: 10px;">
   🔭 I’m a student<br>
   🌱 I’m the beginner programer<br>
-  💬 Ask me about isuue from my ripository[here](https://github.com/Tanmyname/Pydl/issues)<br>
+  💬 Ask me about isuue from my ripository[here](https://github.com/Nevve13/Pydl/issues)<br>
   ⚡ Fun fact: I love a coffee☕ while learning about all the programming languages
 </div>
 
